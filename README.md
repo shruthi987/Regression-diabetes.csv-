@@ -1,5 +1,5 @@
 # Regression-diabetes.csv-
-Classical Machine Learning-Supervised learning(features and target columns)-Regression(continuous values)
+Classical Machine Learning-Supervised learning(features and target columns)-Regression(continuous values)(LinearRegression)
 >import all the libaries
 >Read data into DataFrame
 >define X,y
